@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>Prototypes.Services.Proxies.Interfaces</AssemblyName>
+    <RootNamespace>Prototypes.Services.Proxies.Interfaces</RootNamespace>
+  </PropertyGroup>
+
+</Project>
